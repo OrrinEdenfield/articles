@@ -27,6 +27,9 @@ There are some things to consider before the meetings when it comes to planning 
 
 ## During the Meetings
 
+# Use Video/Webcam
+Sharing your video/webcam provides a more personal connection to people. However, if network connevtivity or bandwidth is an issue it may be better to turn video off for larger portions of the meeting or allow the host to share video while others turn their cams off.
+
 ## Remote Whiteboarding
 
 ## With Microsoft Whiteboard 
