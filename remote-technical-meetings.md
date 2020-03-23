@@ -25,9 +25,9 @@ There are some things to consider before the meetings when it comes to planning 
 ## Preparing your Surroundings
 
 
-### During the Meetings
+## During the Meetings
 
-### Remote Whiteboarding
+## Remote Whiteboarding
 
 ## With Microsoft Whiteboard 
 
