@@ -20,21 +20,35 @@ Zoom is also another popular option and I've used it (at customers request) many
 There are some things to consider before the meetings when it comes to planning for the meeting, preparing your workspace and ensuring minimal interruptions during the meeting.
 
 ## Agenda Planning
-
+It's important to consider how long everyone will be sitting at their desk/workstation.
+  - Consider breakout sessions for specific topics and/or smaller group discussions
 
 ## Preparing your Surroundings
 
 
 ## During the Meetings
 
+  - Pin one camera view to the big screen
+  - Be the first to make a comment in chat so people see that as an option 
+  - Ask more questions to encourage dialogue
+  - Take long pauses to foster feedback from everyone
+
+
 # Use Video/Webcam
 Sharing your video/webcam provides a more personal connection to people. However, if network connevtivity or bandwidth is an issue it may be better to turn video off for larger portions of the meeting or allow the host to share video while others turn their cams off.
 
 ## Remote Whiteboarding
+It's a good idea to use a shared whiteboard, where many people can participate. This will most simulate a physical whiteboard where anyone can start drawing. Most digital whiteboards that a part of remote meeting tools allow you to use a pen/stylus, mouse or your finger (when touchscreen is available). 
 
-## With Microsoft Whiteboard 
+## With Microsoft Whiteboard
+
+  - Keep in mind that Ink to Shape capability, while nice for making easier to understand drawings, it makes things harder to erase (must use select tool + delete, vs. erase tool).
 
 ## With Microsoft Teams Whiteboard
 
-## Using Surface Pen
 
+
+## Using Surface Pen
+Some of these tips may also apply to other stylus or pen tools. Surface Pen & Samsung S-Pen is what I've used the most. 
+  - Make sure you have some extra AAAA batteries available just in case (unless you have a rechargable Surface Slim Pen).
+  - See note about Ink to Shape, flipping Pen to eraser won't erase Ink to Shapes.
