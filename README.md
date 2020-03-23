@@ -1,2 +1,2 @@
-# articles
-Some articles about how some things work.
+# Articles
+Some documents that might help.
