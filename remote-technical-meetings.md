@@ -51,4 +51,4 @@ It's a good idea to use a shared whiteboard, where many people can participate. 
 ## Using Surface Pen
 Some of these tips may also apply to other stylus or pen tools. Surface Pen & Samsung S-Pen is what I've used the most. 
   - Make sure you have some extra AAAA batteries available just in case (unless you have a rechargable Surface Slim Pen).
-  - See note about Ink to Shape, flipping Pen to eraser won't erase Ink to Shapes.
+  - See note about Ink to Shape, flipping Pen to eraser won't erase Ink to Shapes. 
